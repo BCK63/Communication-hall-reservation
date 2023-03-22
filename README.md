@@ -1,2 +1,2 @@
 # Communication-hall-reservation
-The objective of this project is to create a website that enables users to reserve the communication hall within our academy.
+The objective of this project is to create an application that helps to manage the communication sessions within our academy.
